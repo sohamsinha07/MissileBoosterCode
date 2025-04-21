@@ -51,7 +51,7 @@ Ensure Python and required libraries (`tkinter`, `matplotlib`) are installed. Th
 ```bash
 python missile_booster_ui.py
 
-2. Enter Parameters
+### 2. **Enter Parameters**
 You’ll see a clean Navy-themed user interface with labeled input fields. Fill in the following fields under "Input Parameters":
 
 Booster Size (kg)
@@ -83,7 +83,7 @@ Specific Impulse of the propulsion system (typical solid rockets = 250 s).
 Example: 250
 
 
-3. Run Calculations
+### 3. **Run Calculations**
 Once all fields are filled:
 
 Click the CALCULATE PERFORMANCE button at the center of the screen.
